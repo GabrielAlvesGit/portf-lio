@@ -301,7 +301,7 @@ footer{
         justify-items: center;
         margin-top: 0px;
         margin: -30px;
-        right: 3px;
+        right: 1px;
     }
      .img-perfilTopo .img-Perfil{
         display: flex;
@@ -315,19 +315,20 @@ footer{
     }
     .subTitulo{
         display: flex;
-        font-size: 10px;
+        font-size: 8px;
         flex-flow: row nowrap;
     }
     /*;*/
     .img-globo{
         display: flex;
-        width: 100%;
+        width: 104%;
         margin-top: 1px;
     }
     .rodapé{
-        display: flex;
+        
         width: 80%;
         margin-top: -50px;
+        font-size: 12px;
     }
     .btn{
         border-radius: 2px 12px 12px;
