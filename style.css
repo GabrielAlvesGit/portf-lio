@@ -61,7 +61,7 @@ header{
 .nickName{
     display: flex;
     width: 100%;
-    width: 100%;
+    height: 100%;
     text-align: center;
     justify-content: center;
     color: rgb(255, 255, 255);
@@ -301,16 +301,23 @@ footer{
         justify-items: center;
         margin-top: 0px;
         
-        margin: -30px -120px;
+        margin: -30px -100px;
     }
      .img-perfilTopo .img-Perfil{
         display: flex;
         margin-top: 120px;
         box-shadow: 0 0 10px #fff;
     }
+    .img-perfilTopo{
+        display: flex;
+        height: 45vh;
+        justify-content: center;
+        justify-items: center;
+    }
     .nickName{
         display: flex;
         margin-top: 0px;
+        height: 100%;
         width: 100%;
     }
     .subTitulo{
