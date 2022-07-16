@@ -310,7 +310,7 @@ footer{
     }
     .img-perfilTopo{
         display: flex;
-        height: 45vh;
+        height: 260px;
         justify-content: center;
         justify-items: center;
     }
@@ -335,7 +335,7 @@ footer{
     .rodapé{
         
         width: 80%;
-        margin-top: -50px;
+        margin-top: -30%;
         font-size: 12px;
     }
     .btn{
